@@ -8,7 +8,7 @@
 - 🛠️ **Odak:** Modern C++, C#, OOP Tasarım Desenleri, Veri Yapıları & Algoritmalar, Unity
 
 ### Teknolojiler & Beceriler
-`C++17/20` `C#` `Python` `React Native` `Firebase` `SQLite` `CMake` `Git`
+`C++17/20` `C#` `Python` `React Native` `Unity` `Firebase` `SQLite` `Git`
 
 ### Bağlantılar
 - [LinkedIn](https://linkedin.com/in/eren-esat-durmus)
