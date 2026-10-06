@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, Ben Eren Esat Durmuş 👋
 
-<!--
-**ErenEsat/ErenEsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İTÜ Bilgisayar Mühendisliği öğrencisiyim. Nesne yönelimli mimariler, C++, C#, oyun motoru mekanikleri ve mobil/web teknolojileri üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+- 🎓 **Eğitim:** İstanbul Teknik Üniversitesi - Bilgisayar Mühendisliği (%100 İngilizce)
+- 🏆 **YKS Derecesi:** 2023 Sayısal Türkiye 913.'sü
+- 💼 **Çalışma:** Bonobos Games'te Yazılım Geliştirici
+- 🛠️ **Odak:** Modern C++, C#, OOP Tasarım Desenleri, Veri Yapıları & Algoritmalar, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Teknolojiler & Beceriler
+`C++17/20` `C#` `Python` `React Native` `Firebase` `SQLite` `CMake` `Git`
+
+### Bağlantılar
+- [LinkedIn](https://linkedin.com/in/eren-esat-durmus)
+- ✉️ erenesat411@gmail.com
